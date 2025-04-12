@@ -144,7 +144,7 @@ ul li {
 
 .footerA {
     text-decoration: none;
-    color: white !important;
+    color: white;
 }
 
 .footer img.soc {
@@ -185,7 +185,7 @@ ul li {
     background-image: url(galery/footer.png);
     background-color: rgba(158, 174, 168, 1);
     background-size: cover;
-    height: 250px;
+    height: 300px;
     align-items: center;
 }
 
